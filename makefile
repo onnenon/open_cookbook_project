@@ -1,5 +1,5 @@
 build:
-	docker build -t op-cook:latest .
+	docker build --no-cache -t op-cook:latest .
 
 run: stop
 	docker run -d -p 80:80 --name=op-cook --restart=always op-cook:latest
