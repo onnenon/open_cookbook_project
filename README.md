@@ -21,6 +21,7 @@ These documents build on widely used formats to improve extensibility.
 Name: Turkey Sandwich
 Creator: Foo Bar
 Units: metric
+Difficulty: Easy
 
 Ingredients:
     Quantity:
