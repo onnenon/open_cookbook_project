@@ -1,4 +1,5 @@
 build:
+	git pull origin master
 	docker build --no-cache -t op-cook:latest .
 
 run: stop
@@ -6,4 +7,3 @@ run: stop
 
 stop:
 	docker rm -f op-cook || true
-
