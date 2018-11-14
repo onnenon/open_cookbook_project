@@ -24,10 +24,10 @@ Units: metric
 Difficulty: Easy
 
 Ingredients:
-    Quantity:
-        turkey-slice: 1
-        cheese-slice: 1
-    Measurement:
-        mayo:
-            oz: 1
+  Quantity:
+    turkey-slice: 1
+    cheese-slice: 1
+  Measurement:
+    mayo:
+      oz: 1
 ```
